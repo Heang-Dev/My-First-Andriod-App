@@ -1,5 +1,7 @@
 <resources>
-    <string name="app_name">My_First_Andriod_App</string>
+    <string name="app_name">Movie Booking</string>
+
+    <!-- Legacy Login Screen Strings -->
     <string name="logo">logo</string>
     <string name="welcome_back_dev">Welcome back, Dev.</string>
     <string name="enter_your_credentials_to_access_the_vault">Enter your credentials to access the vault.</string>
@@ -16,4 +18,59 @@
     <string name="or_continue_with">OR CONTINUE WITH</string>
     <string name="log_in">Log In</string>
     <string name="forgot_password">Forgot Password?</string>
+
+    <!-- Movie Details -->
+    <string name="movie_title">Dune: Part Two</string>
+    <string name="movie_year">2024</string>
+    <string name="movie_duration">2h 46m</string>
+    <string name="movie_rating">8.8</string>
+    <string name="imdb">IMDb</string>
+
+    <!-- Genre Chips -->
+    <string name="genre_action">Action</string>
+    <string name="genre_adventure">Adventure</string>
+    <string name="genre_scifi">Sci-Fi</string>
+    <string name="genre_drama">Drama</string>
+
+    <!-- Synopsis -->
+    <string name="synopsis_title">Synopsis</string>
+    <string name="synopsis_text">Paul Atreides unites with Chani and the Fremen while seeking revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, he must prevent a terrible future that only he can foresee. As he embraces his destiny among the desert warriors of Arrakis, Paul must navigate the treacherous politics of noble houses, confront the mysterious Bene Gesserit sisterhood, and master the ways of the Fremen to become Muad\'Dib, the prophesied leader who will change the course of human history forever. With stunning visual effects and an epic score by Hans Zimmer, this sci-fi masterpiece continues the legendary saga of power, betrayal, and survival on the desert planet.</string>
+    <string name="read_more">Read More</string>
+    <string name="read_less">Read Less</string>
+
+    <!-- Date Selection -->
+    <string name="select_date">Select Date</string>
+
+    <!-- Time Slots -->
+    <string name="select_time">Select Showtime</string>
+    <string name="time_10_00_am">10:00 AM</string>
+    <string name="time_1_30_pm">1:30 PM</string>
+    <string name="time_4_00_pm">4:00 PM</string>
+    <string name="time_7_00_pm">7:00 PM</string>
+    <string name="time_10_30_pm">10:30 PM</string>
+
+    <!-- Slot Status -->
+    <string name="status_available">Available</string>
+    <string name="status_filling_fast">Filling Fast</string>
+    <string name="status_sold_out">Sold Out</string>
+
+    <!-- Cinema Location -->
+    <string name="cinema_location">Cinema Location</string>
+    <string name="cinema_name">Cineplex AEON Mall</string>
+    <string name="cinema_address">Street 1003, Phnom Penh</string>
+
+    <!-- Booking -->
+    <string name="total_price">Total Price</string>
+    <string name="price_placeholder">$0.00</string>
+    <string name="book_now">Book Now</string>
+    <string name="select_seats">Select Seats</string>
+
+    <!-- Misc -->
+    <string name="watch_trailer">Watch Trailer</string>
+    <string name="play_trailer">Play Trailer</string>
+
+    <!-- Legend -->
+    <string name="legend_available">Available</string>
+    <string name="legend_filling_fast">Filling Fast</string>
+    <string name="legend_sold_out">Sold Out</string>
 </resources>
